@@ -1,1 +1,1 @@
-[Password Generator]("https://shauryatripaathi.github.io/passwordGenerator")
+[PasswordGenerator]("https://shauryatripaathi.github.io/passwordGenerator")
